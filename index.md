@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This is my homepage. 
 
-Maybe say a some things about yourself.
+I work as an Android Developer in Reliance Jio.
 
-Or maybe what you plan to blog about.
+I am writing a blog about my current project related to Bluetooth scanning.
